@@ -1,0 +1,1 @@
+E un negozio online fake, fatto su HTML/CSS/JS fatto per essere con amore vero e gratuito!
